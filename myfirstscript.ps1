@@ -4,6 +4,7 @@
 #https://technet.microsoft.com/en-us/library/dd315244.aspx
 #http://www.powershellpro.com/powershell-tutorial-introduction/variables-arrays-hashes/
 Write-Host "Hello, World!" -backgroundcolor "red"
+Write-Host "Hello, Werby!" -foregroundcolor "green"
 [console]::beep(2000,500)
 
 Write-Host `
